@@ -21,19 +21,4 @@
 https://github.com/user-attachments/assets/14e77658-172a-473a-af07-116fc1d3eb44
 
 ## 🧑‍💻 Code Review
-주차별로 전문가에게 코드 리뷰 및 고도화를 통해 애플리케이션의 퀄리티를 높일 수 있었습니다.
-
-![image](https://github.com/user-attachments/assets/d669c279-e7cc-4656-b5ab-dd0740452bc4)
-
-각 Pull Request 및 Code Review는 아래 Week 이름 클릭 시 이동 가능합니다. <br>
-
-[Week 1 - 1](https://github.com/kakao-tech-campus-2nd-step2/android-map-keyword/pull/20) <br>
-[Week 1 - 2](https://github.com/kakao-tech-campus-2nd-step2/android-map-keyword/pull/45) <br>
-[Week 2 - 1](https://github.com/kakao-tech-campus-2nd-step2/android-map-search/pull/22) <br>
-[Week 2 - 2](https://github.com/kakao-tech-campus-2nd-step2/android-map-search/pull/88) <br>
-[Week 3 - 1](https://github.com/kakao-tech-campus-2nd-step2/android-map-location/pull/44) <br>
-[Week 3 - 2](https://github.com/kakao-tech-campus-2nd-step2/android-map-location/pull/69) <br>
-[Week 4 - 1](https://github.com/kakao-tech-campus-2nd-step2/android-map-refactoring/pull/23) <br>
-[Week 4 - 2](https://github.com/kakao-tech-campus-2nd-step2/android-map-refactoring/pull/66) <br>
-[Week 5 - 1](https://github.com/kakao-tech-campus-2nd-step2/android-map-notification/pull/31) <br>
-[Week 5 - 2](https://github.com/kakao-tech-campus-2nd-step2/android-map-notification/pull/51) <br>
+![image](https://github.com/user-attachments/assets/d66e8f8c-ac50-4f5e-9bcc-40d067aae177)
